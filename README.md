@@ -1,8 +1,5 @@
-# software-lab-HW2
+# software-lab-HW3
 
-Here’s a draft for your README file in Persian based on the test coverage setup you followed and the screenshot you provided:
-
----
 
 # پروژه تست پوشش کد
 
